@@ -1,5 +1,10 @@
+# prints out a little bit extra to the console to debug errors
 debug: false
+# disables interactions with armorstands for non creative players
 disablestands: false
+
+# ooh fancy, supports minimessage with newlines ^.^
+
 messages:
-  no-permission: "YOU HAVE NO PERMS"
-  reload: "plugin reloaded"
+  no-permission: "<#ff334f>YOU HAVE NO PERMS"
+  reload: "<#ff334f>plugin <nl>reloaded"
