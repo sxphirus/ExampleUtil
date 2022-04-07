@@ -1,0 +1,6 @@
+name: VHUtils
+version: '${project.version}'
+main: ern.dev.vhutils.VHUtils
+api-version: 1.18
+commands:
+  vhutils:

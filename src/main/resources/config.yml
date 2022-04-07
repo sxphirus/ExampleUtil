@@ -1,0 +1,5 @@
+debug: false
+disablestands: false
+messages:
+  no-permission: "YOU HAVE NO PERMS"
+  reload: "plugin reloaded"
